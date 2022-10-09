@@ -1,0 +1,7 @@
+	2. 챗봇 어플리케이션 만들기 - 소개 영상
+		* google에서 제공하는 Diablogflow API를 이용함
+		
+		* Node.js
+		* Express.js 프레임워크
+		* React.js
+		* Reduct

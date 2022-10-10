@@ -1,0 +1,13 @@
+	3. 챗봇 어플리케이션 만들기 - Dialogflow API 설정
+	
+	git repository starter point :
+	- https://github.com/jaewonhimnae/chatbot-app/commit/56b70f8517a33ac618d6b1b5684bf304f84358b4
+
+	For MAC users:
+	- export GOOGLE_APPLICATION_CREDENTIALS=/path-to-keys/key.json
+
+	For Window users:
+	- set GOOGLE_APPLICATION_CREDENTIALS=/path-to-keys/keys-file.json
+	
+	
+	* Create Google Project
